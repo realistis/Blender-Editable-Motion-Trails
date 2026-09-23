@@ -11,6 +11,8 @@ N > Animation > Motion Trail > Click "Enable the Motion Trail"
 Move to a keyframe on the timeline, it auto-select the point and its handles.
 G to grab the point or click a handle and grab it.
 
+<img width="1527" height="454" alt="image" src="https://github.com/user-attachments/assets/e4816111-8675-4fd5-8219-bd0a586d9e12" />
+
 # Issues to fix
 - If view update is not working, simply disable and re-enable by clicking the button "... motion trail".
 - "Keyframe numbers" only work in Blender 3 (tested on 3.6).
