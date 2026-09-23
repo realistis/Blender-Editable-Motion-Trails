@@ -1,9 +1,16 @@
+<img width="996" height="448" alt="image" src="https://github.com/user-attachments/assets/c8cc637e-70ad-46d8-a124-c5760cbff3c0" />
+
 # Blender-Editable-Motion-Trails
 Works with Blender 3 and Blender 4. Blender 5 changed a lot, please download an old version to make it work.
 
-The addon allow to view and edit motion paths like curves directly in the 3d view. See the old video (v2.7) https://vimeo.com/20659756
+The addon allow to view and edit motion paths in 3D like curves directly in the 3d view. See the old video (v2.7, 2011) https://vimeo.com/20659756
+
+# Install
+Like any Blender add-on, through the Blender preferences > Install from disk > animation_motion_trail.py
+-> Motion Trail
 
 # Usage
+In Object mode, select an object with a few keyframes.
 N > Animation > Motion Trail > Click "Enable the Motion Trail"
 
 <img width="735" height="589" alt="image" src="https://github.com/user-attachments/assets/802169df-5561-4a28-9928-26877f69d25e" />
